@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: だいたい
+permalink: /私について/
 ---
 
-Some information about you!
+お使いのデバイス用のドライバーの無料ソースを無料で提供しています
 
-### More Information
+### 情報
 
-A place to include any other types of information that you'd like to include about yourself.
+私たちが共有するすべてのドライバーとソフトウェアは無料で、マルウェアがなく、安全に使用できます。 無料のソフトウェアとドライバーのダウンロードをお楽しみください。
 
-### Contact me
+### 公式サイト
 
-[email@domain.com](mailto:email@domain.com)
+[ww1.doraiba.com](ww1.doraiba.com)
